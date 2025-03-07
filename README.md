@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate geospatial scientist who loves to
 - Tools & Platforms: ArcGIS, ESA SNAP, ENVI, ARCGIS ENTERPRISE, JUPYTER
 
 ## 📈 GitHub Stats
-![GeoSLEEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoSLEEK&show_icons=true&theme=radical)
+![GeoSLEEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aderonke-Adetoro&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/adetoro-aderonke
